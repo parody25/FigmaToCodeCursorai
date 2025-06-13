@@ -1,0 +1,1 @@
+Please generate the react native code for the attached image and move the code to screens folder in the workspace also try to use the components that are prebuilt available in components folder
